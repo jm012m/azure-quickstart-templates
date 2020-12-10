@@ -1,6 +1,6 @@
 variables:
   ARM_PASS: $(adminPass)
-
+  sitename: 'lowerxyzsitteeeeeeeeeeee'
 trigger:
 - none
 
