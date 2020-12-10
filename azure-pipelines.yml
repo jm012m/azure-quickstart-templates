@@ -19,7 +19,7 @@ steps:
     deploymentScope: 'Resource Group'
     azureResourceManagerConnection: 'armConnection'
     subscriptionId: '5a6b228d-a128-4db4-a7de-e91d707059e2'
-    action: 'Create Or Update Resource Group'
+    action: 'DeleteRG'
     resourceGroupName: 'SL-ARMDemo'
     location: 'North Central US'
     templateLocation: 'Linked artifact'
